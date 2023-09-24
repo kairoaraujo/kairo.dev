@@ -3,11 +3,8 @@
 title: Kairo de Araujo
 #email: your-email@example.com
 description: >-
-  I am an Engineer with over two decades in IT.
-  I contribute to open source.
-
-  I hail from Brazil and live in The Netherlands.
-  I'm a father, husband, and vinyl collector.
+  Software Engineer, System Engineer.
+  Father, Husband, Vinyl Collector, Road Bike enthusiast.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kairo.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kairoaraujo
