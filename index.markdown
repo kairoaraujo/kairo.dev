@@ -21,3 +21,7 @@ See below my talks about it.
 * [EuroPython 2022](https://ep2022.europython.eu/session/work-in-progress-implementing-pep-458-to-secure-pypi-downloads): ["Work in Progress: Implementing PEP 458 to Secure PyPI downloads" (video recording)](https://www.youtube.com/watch?v=0HgjwKOnMGo)
 
 [Schedule some time to meet](https://calendly.com/kairoaraujo).
+
+[My wishlist](https://www.amazon.com/hz/wishlist/ls/3HZMPA9FUA6V9/ref=nav_wishlist_lists_1).
+
+My outdated [website/blog](http://kairo.eti.br).

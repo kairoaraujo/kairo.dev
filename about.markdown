@@ -21,4 +21,10 @@ continue to leverage my expertise in Networking, Cloud services,
 Virtualization, Storage Area Networks, and Storage Disks daily.
 
 I hail from Brazil and live in The Netherlands.
-I'm a father, husband, and vinyl collector and road bike enthusiastic.
+I'm a father, husband, [vinyl collector](https://www.discogs.com/user/kairoaraujo)
+and [road bike enthusiastic](https://www.strava.com/athletes/6626867).
+
+[My wishlist](https://www.amazon.com/hz/wishlist/ls/3HZMPA9FUA6V9/ref=nav_wishlist_lists_1).
+
+
+My outdated [website/blog](http://kairo.eti.br).
