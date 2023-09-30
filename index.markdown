@@ -20,8 +20,16 @@ See below my talks about it.
 * [EuroPython 2023](https://ep2023.europython.eu/session/pep-458-a-solution-not-only-for-pypi): ["PEP 458 a solution not only for PyPI" (video recoding)](https://www.youtube.com/watch?v=8pnOpfvhT9o)
 * [EuroPython 2022](https://ep2022.europython.eu/session/work-in-progress-implementing-pep-458-to-secure-pypi-downloads): ["Work in Progress: Implementing PEP 458 to Secure PyPI downloads" (video recording)](https://www.youtube.com/watch?v=0HgjwKOnMGo)
 
+Some blog posts:
+
+* [Introducing RSTUF, Repository Service for TUF](https://openssf.org/blog/2023/08/31/introducing-rstuf-repository-service-for-tuf/) (OpenSSF blog)
+* [Introducing RSTUF (Repository Service for TUF) Beta Release](https://blogs.vmware.com/opensource/2023/07/19/introducing-rstuf-beta-release/) (VMware Open Source blog)
+* [Safety for All with Repository Service for TUF](https://blogs.vmware.com/opensource/2023/06/06/safety-for-all-with-repository-service-for-tuf-2/) (VMware Open Source blog)
+* [Implementing PEP 458 to Secure PyPI Downloads](https://blogs.vmware.com/opensource/2022/09/22/implementing-pep-458-to-secure-pypi-downloads/) (VMware Open Source blog)
+
+
 [Schedule some time to meet](https://calendly.com/kairoaraujo).
 
 [My wishlist](https://www.amazon.com/hz/wishlist/ls/3HZMPA9FUA6V9/ref=nav_wishlist_lists_1).
 
-My outdated [website/blog](http://kairo.eti.br).
+My archived [website/blog](http://kairo.eti.br).

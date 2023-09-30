@@ -26,5 +26,4 @@ and [road bike enthusiastic](https://www.strava.com/athletes/6626867).
 
 [My wishlist](https://www.amazon.com/hz/wishlist/ls/3HZMPA9FUA6V9/ref=nav_wishlist_lists_1).
 
-
-My outdated [website/blog](http://kairo.eti.br).
+My archived [website/blog](http://kairo.eti.br).
