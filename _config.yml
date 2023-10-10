@@ -1,7 +1,6 @@
 # kairo.dev
 
 title: Kairo de Araujo
-#email: your-email@example.com
 description: >-
   Software Engineer, System Engineer.
   Father, Husband, Vinyl Collector, Road Bike enthusiast.
@@ -10,6 +9,9 @@ url: "http://kairo.dev" # the base hostname & protocol for your site, e.g. http:
 twitter_username: kairoaraujo
 github_username:  kairoaraujo
 linkedin_username: kairoaraujo
+mastodon:
+- username: kairoaraujo
+  instance: mastodon.social
 
 # Build settings
 theme: minima
