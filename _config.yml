@@ -12,6 +12,7 @@ linkedin_username: kairoaraujo
 mastodon:
 - username: kairoaraujo
   instance: mastodon.social
+  rel: me
 
 # Build settings
 theme: minima

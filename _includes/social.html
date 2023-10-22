@@ -1,0 +1,6 @@
+<ul class="social-media-list">
+    {% if site.github_username%}<a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a>{% endif %} |
+    {% if site.linkedin_username%}<a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a>{% endif %} |
+    {% for mst in site.mastodon %}{% if mst.username and mst.instance %}<a rel="me" href="https://{{ mst.instance| cgi_escape | escape}}/@{{mst.username}}"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#mastodon"></use></svg> <span class="username">{{ mst.username|escape }}</span></a>{% endif %}{% endfor %} |
+    {% if site.twitter_username%}<a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">{{ site.twitter_username| escape }}</span></a>{% endif %}
+</ul>
