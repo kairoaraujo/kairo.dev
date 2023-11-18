@@ -16,7 +16,7 @@ content distribution. This project is part of the
 See below my talks about it.
 
 * [PyCon Ireland](http://pycon.ie/pycon-2023/schedule/)
-* [PyCon Sweeden](https://www.pycon.se)
+* [PyCon Sweden](https://www.pycon.se)
 * [PackagingCon 2023](https://cfp.packaging-con.org/2023/talk/997FQK/): [“Our stuff” - how to protect users from package compromise with RSTUF (video recording)](https://www.youtube.com/live/mYzqeS2d96A?si=cqQUH5J5wDPrOQFb&t=3801)
 * [EuroPython 2023](https://ep2023.europython.eu/session/pep-458-a-solution-not-only-for-pypi): ["PEP 458 a solution not only for PyPI" (video recording)](https://www.youtube.com/watch?v=8pnOpfvhT9o)
 * [EuroPython 2022](https://ep2022.europython.eu/session/work-in-progress-implementing-pep-458-to-secure-pypi-downloads): ["Work in Progress: Implementing PEP 458 to Secure PyPI downloads" (video recording)](https://www.youtube.com/watch?v=0HgjwKOnMGo)
