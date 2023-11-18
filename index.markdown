@@ -3,7 +3,8 @@ layout: home
 ---
 
 I'm an Engineer with over two decades in IT.
-<img align="right" width="150" height="150" src="./static/images/headshoot.jpeg">
+
+<img align="right" width="234" height="280" src="./static/images/pycon_se.jpg">
 
 I contribute to open source in the security supply chain space.
 
@@ -33,3 +34,5 @@ Some blog posts:
 [My wishlist](https://www.amazon.com/hz/wishlist/ls/3HZMPA9FUA6V9/ref=nav_wishlist_lists_1).
 
 My archived [website/blog](http://kairo.eti.br).
+
+(Photography by <a href="https://www.linkedin.com/in/michaeldovgal/">Michal Dovgal</a>)
