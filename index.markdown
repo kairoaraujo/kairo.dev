@@ -3,10 +3,8 @@ layout: home
 ---
 
 
-Hi there! 👋 I'm an engineer with over two decades of experience in IT,
-specializing in open-source security and software supply chain integrity. I
-contribute to projects that make the digital world safer, ensuring developers
-and users can trust the tools they rely on every day.
+Hi there! 👋 I'm an engineer with over two decades of experience,
+specializing in open-source security and software supply chain integrity.
 
 <img align="right" width="234" height="280" src="./static/images/pycon_se.jpg">
 
@@ -51,7 +49,7 @@ Sharing knowledge and collaborating with the community are integral to what I do
 |                      | [TTX Session](https://sosscdeu2024.sched.com/event/1gbh5/ttx-session-daniel-appelquist-samsung-kairo-de-araujo-testifysec-georg-kunz-ericsson-moderated-by-katherine-druckman-intel-corporation?iframe=yes&w=100%&sidebar=yes&bg=no)<br>Panelists: Daniel Appelquist (Samsung), Kairo De Araujo (TestifySec), Georg Kunz (Ericsson)<br>Moderated by Katherine Druckman (Intel Corporation) |                                                                                              |
 | KubeCon 2024         | Operating a Production TUF Repository<br>(Kairo De Araujo & Fredrik Skogman, Github)          | [Watch](https://youtu.be/WB83-RhMl18?si=M2ICKi9btzvotQSO)                                     |
 |                      | DEMO: Archivista using TUF to store Policy & building trust on verifying in-toto Attestations | [Watch](https://youtu.be/camLVqnVel8?si=0QhZNAyfeaV_2aRv)                                     |
-| PackagingCon 2023    | “Our stuff” - How to Protect Users from Package Compromise with RSTUF                         | [Watch](https://www.youtube.com/live/mYzqeS2d96A?si=cqQUH5J5wDPrOQFb&t=3801)                                                                                   |
+| PackagingCon 2023    | “Our stuff” - How to Protect Users from Package Compromise with RSTUF                         | [Watch](https://youtu.be/A2wtvenmDlY?si=RiZMD5QG8HqatbqV)                                                                                   |
 | EuroPython 2023      | PEP 458 - A Solution Not Only for PyPI                                                        | [Watch](https://www.youtube.com/watch?v=8pnOpfvhT9o)                                                                                   |
 | PyCon Ireland 2023   | PEP 458 - A Solution Not Only for PyPI                                                        | [Watch](https://www.youtube.com/watch?v=Tv_H4RuLjLA)                                         |
 | PyCon SE 2023        | [PEP 458 a solution not only for PyPI](https://pycon.se/2023/)                                |                                                                                              |
@@ -73,13 +71,10 @@ Sharing knowledge and collaborating with the community are integral to what I do
 I’d love to hear from you! Whether it’s a collaboration idea, a question about my projects, or just to chat about open source, feel free to reach out:
 
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/kairoaraujo)
+- **LinkedIn:** [kairoaraujo](https://linkedin.com/in/kairoaraujo)
 
 Or [schedule some time to meet with me](https://calendly.com/kairoaraujo) directly!
 
-
-## 💡 Wishlist
-Curious about what’s on my mind or what I’m working toward? Visit my [wishlist](#) to see what’s next on my horizon.
 
 ## 📂 Archived Blog
 Earlier thoughts and projects, take a look at my [archived blog](https://kairo.eti.br).
